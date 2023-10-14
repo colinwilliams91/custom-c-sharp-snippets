@@ -18,7 +18,8 @@ These are some custom snippets I wrote for C# to optimize development in VS2019/
 Select text -> right click -> select "Surround with..." -> My Code Snippets -> doubleQuotes
 ```
 
-Alternatively: Select text -> hit `ctrl` + `K`, `ctrl` + `S` -> My Code Snippets -> doubleQuotes
+**Alternatively:** 
+Select text -> hit `ctrl` + `K`, `ctrl` + `S` -> My Code Snippets -> doubleQuotes
 
 ### Documentation:
 I used [this Stack Overflow Article](https://stackoverflow.com/questions/29757631/visual-studio-wrap-selection-in-quotes) as a walkthrough.
