@@ -3,7 +3,7 @@
 </div>
 
 # Custom C# Snippets
-These are some custom code snippets I wrote for C# to optimize development in VS2019/VS2022
+These are some custom code snippets I wrote for C# to optimize development in VS2019/VS2022 emulating VSCode
 
 ## How to use:
 - Fork and Clone the repo
