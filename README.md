@@ -13,7 +13,7 @@ These are some custom snippets I wrote for C# to optimize development in VS2019/
   - Click Import and browse to the snippet you just created.
 - Check 'My Code Snippets' and click Finish and then OK.
 
-When you want to use the snippets: (example)
+**When you want to use the snippets:** (example)
 ```C#
 Select text -> right click -> select "Surround with..." -> My Code Snippets -> doubleQuotes
 ```
